@@ -1,0 +1,60 @@
+{
+    "food": [
+        {
+            "id": "1",
+            "name": "bean_cake",
+            "localizedName": "Acarajé",
+            "description": "El acarayé es un plato de origen africano, muy típico también en Bahía, que te seducirá con su olor irresistible que recorre las calles. Básicamente, es un bollo hecho con una pasta de judías carillas, gambas, cebolla, sal y pimienta al gusto, que después de pasarlo por la batidora, se frie en aceite vegetal y se rellena con gambas cocidas, vatapá, cebolla y ocra.",
+            "country": "Brasil",
+            "image": "https://www.naturalcookeryschool.com/wp-content/uploads/2019/05/acaraje.jpg"
+        },
+        {
+            "id": "2",
+            "name": "chucrut",
+            "localizedName": "Sauerkraut",
+            "description": "Pocos platos de la comida típica de Alemania son tan comunes y representativos como el chucrut. Se trata de una preparación simple y gustosa que ha sabido abrirse paso en las cocinas americanas y asiáticas. El chucrut consiste en trozos de repollo o col fermentada en agua con sal, que puede comerse frío o caliente.",
+            "country": "Alemania",
+            "image": "https://th.bing.com/th/id/OIP._vAkn1vdfEIYEfgyfNjJ6AHaE7?pid=ImgDet&rs=1"
+        },
+        {
+            "id": "3",
+            "name": "macaron",
+            "localizedName": "Macaron",
+            "description": "Viajar a París o vivir allí y no probar un macarón sería un sacrilegio. Son pequeños, redondos, deliciosos y han conquistado los paladares más exigentes del mundo. Estas pequeñas joyas son de mil colores y sabores.",
+            "country": "Francia",
+            "image": "https://www.rebanando.com/uploads/media/macarons-jpeg.jpg?1401471737"
+        },
+        {
+            "id": "4",
+            "name": "peanut_butter_mousse",
+            "localizedName": "Mousse de Mantequilla de Maní",
+            "description": "Este mousse es un postre típico de la República del Congo. Está compuesto por gelatina vegetal, crema, cacao en polvo, azúcar, claras de huevo (como cualquier mousse) y, por supuesto, una gran cantidad de mantequilla de maní.",
+            "country": "República del Congo",
+            "image": "https://images-gmi-pmc.edge-generalmills.com/39c0a861-770f-4cc1-866c-b83989656338.jpg"
+        },
+        {
+            "id": "5",
+            "name": "platain_leaf_pockets",
+            "localizedName": "Pastel en Hoja",
+            "description": "Los pasteles en hoja son una especialidad navideña y resulta difícil encontrarlos durante el resto del año si no estás en Santo Domingo o no conoces a una abuela que se dedique a hacerlos. Son la versión de un tamal dominicano, pero son hechos con masa de plátano y se rellenan de carne o vegetales antes de envolverlos en una hoja de plátano.",
+            "country": "República Dominicana",
+            "image": "https://th.bing.com/th/id/OIP.ty8DPZfFyyU-pw_c68JN0AHaE6?pid=ImgDet&rs=1"
+        },
+        {
+            "id": "6",
+            "name": "pozole",
+            "localizedName": "Pozole",
+            "description": "El pozole o posole es un platillo tradicional muy popular de la gastronomía de México y América Central. La receta consiste en un caldo o sopa de granos de maíz (originariamente la variedad cacahuazintle) a la que se agregan ingredientes como carne (cerdo y pollo las más comunes), vegetales y especias que varían según la región.",
+            "country": "México",
+            "image": "https://th.bing.com/th/id/R.0300f83083d24a010da99f8bc9bd9196?rik=47IR1IcsmMdIKA&pid=ImgRaw&r=0"
+        },
+        {
+            "id": "7",
+            "name": "steamed_bun",
+            "localizedName": "Xiaolongbao",
+            "description": "Estos panecillos se cocinan tradicionalmente al vapor en cestas de bambú y suelen ir rellenos de carne de cerdo, aunque hay muchas variaciones donde el relleno puede ser de marisco, como el xiaolongbao de gambas o xiaolongbao de cangrejo y cerdo.",
+            "country": "Taiwán",
+            "image": "https://th.bing.com/th/id/R.b388734326eb2871c6356f801e84e4da?rik=VnNxDsHr5gLtRw&pid=ImgRaw&r=0"
+        }
+    ]
+}
