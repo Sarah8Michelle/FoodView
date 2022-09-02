@@ -32,7 +32,7 @@
     .card {
         background-color: theme('colors.white');
         border-radius: theme('borderRadius.lg');
-        padding: theme('spacing.6');
+        padding: theme('spacing.2');
         box-shadow: theme('boxShadow.xl');
     }
 }

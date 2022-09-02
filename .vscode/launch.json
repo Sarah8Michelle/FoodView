@@ -6,6 +6,7 @@
     "configurations": [
         {
             "type": "chrome",
+            "timeout": 20000,
             "request": "launch",
             "name": "Open index.html",
             "file": "c:\\Users\\USUARIO\\Desktop\\FoodView\\public\\index.html"
